@@ -32,3 +32,5 @@ cnpm install -g nrm
 nrm ls
 nrm use taobao
 ```
+# 如何进行iOS自动签名打包
+[https://www.jianshu.com/p/722adedaa3bf](https://www.jianshu.com/p/722adedaa3bf)
